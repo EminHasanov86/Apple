@@ -35,7 +35,10 @@
   .d-flex img {
     cursor: pointer;
   }
-
+  body {
+    button:hover {
+      box-shadow: 2px 2px 3px gray;
+  }}
   #slide {
     height: 152px;
     display: flex;
